@@ -162,7 +162,6 @@ input[type='checkbox']:checked + span {
   background-color: #fff;
 }
 
-
 .search-form__checkbox-list{
   display: flex;
   flex-direction: row;
