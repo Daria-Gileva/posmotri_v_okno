@@ -9,7 +9,6 @@ html {
 }
 
 .page {
-  inline-size: 1200px;
   block-size: 100%;
   margin: auto;
   color: #fff;
@@ -17,6 +16,15 @@ html {
   font-size: 18px;
   background-color: #1b1919;
   font-weight: 400;
+
+  width: 1200px;
+height: 800px;
+top: -394px;
+left: -1276px;
+padding: 133px 30px 133px 30px;
+gap: 0px;
+opacity: 0px;
+
 }
 
 h1,
