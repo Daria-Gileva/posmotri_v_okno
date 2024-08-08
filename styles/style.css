@@ -52,7 +52,7 @@ ol {
 }       
 
 .content {
-  margin: 133px 30px;
+  margin: 133px 0;
   width: 1140px;
   display: flex;
   align-items: end;
